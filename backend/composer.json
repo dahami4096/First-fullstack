@@ -1,0 +1,15 @@
+{
+    "name": "user/backend",
+    "autoload": {
+        "psr-4": {
+            "User\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dahami Nethsarani",
+            "email": "dahaminethsarani2000@gmail.com"
+        }
+    ],
+    "require": {}
+}
